@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "server is online",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "server is online",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "coconutsmp6767.aternos.me",
+    "port": 15490,
     "version": "",
     "try-creative": false
   },
@@ -37,7 +37,7 @@
       ]
     },
     "chat-log": true,
-    "auto-reconnect": true,
+    "auto-reconnect": false,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
